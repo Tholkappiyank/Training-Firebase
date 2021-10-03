@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580098702402",
+    "firebase_url": "https://training-firebase-9a2d1.firebaseio.com",
+    "project_id": "training-firebase-9a2d1",
+    "storage_bucket": "training-firebase-9a2d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580098702402:android:d3da73a48c09b5cc3f41db",
+        "android_client_info": {
+          "package_name": "com.TholkappiyanStudio.TrainingFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580098702402-ebnt678n36gpa66khn2g6i4g81usm1c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_sQnk8i0C2MP3_Lc68aXMcc6I11uBpOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580098702402-ebnt678n36gpa66khn2g6i4g81usm1c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

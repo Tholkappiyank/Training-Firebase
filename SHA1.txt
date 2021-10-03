@@ -1,0 +1,21 @@
+C:\WINDOWS\system32>keytool -list -v -keystore "D:\Training\Trainee\01 Tholkappiyan\Training Firebase\TrainingFirebase.keystore" -alias trainingfirebase
+Enter keystore password:
+Alias name: trainingfirebase
+Creation date: 15 Oct, 2020
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=637002, ST=TamilNadu, L=Namakkal, O=TholkappiyanStudio, OU=Games, CN=Tholkappiyan
+Issuer: C=637002, ST=TamilNadu, L=Namakkal, O=TholkappiyanStudio, OU=Games, CN=Tholkappiyan
+Serial number: 6283d439
+Valid from: Thu Oct 15 11:38:50 IST 2020 until: Fri Oct 03 11:38:50 IST 2070
+Certificate fingerprints:
+         MD5:  F4:BC:34:81:73:43:42:7E:6E:05:46:17:F3:7D:94:23
+         SHA1: 6A:01:BA:2E:38:0F:6C:2C:4B:BC:BF:A0:04:52:FA:EF:B5:EC:3A:94
+         SHA256: F6:82:01:C7:AB:15:68:B3:5E:46:16:03:D0:DD:C1:5B:97:66:2B:37:BA:21:ED:32:5B:DE:2E:9C:A1:4A:E1:82
+Signature algorithm name: SHA1withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Warning:
+The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format using "keytool -importkeystore -srckeystore D:\Training\Trainee\01 Tholkappiyan\Training Firebase\TrainingFirebase.keystore -destkeystore D:\Training\Trainee\01 Tholkappiyan\Training Firebase\TrainingFirebase.keystore -deststoretype pkcs12".
